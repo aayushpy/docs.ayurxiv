@@ -1,2 +1,2 @@
-# paleorXiv.github.io
-Companion website to the PaleorXiv preprint server
+# docs.ayurxiv.org
+Companion website to the AyuRxiv preprint server
